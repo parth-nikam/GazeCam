@@ -18,7 +18,7 @@ GazeCam is a Python-based application using OpenCV and dlib for gaze-controlled 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/GazeCam.git
+    git clone https://github.com/parth-nikam/GazeCam.git
     ```
 
 2. **Install dependencies:**
